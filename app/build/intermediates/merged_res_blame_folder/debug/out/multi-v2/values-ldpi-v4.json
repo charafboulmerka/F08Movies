@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.f08movies.app-mergeDebugResources-173:/values-ldpi-v4/values-ldpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\CHARAF\\.gradle\\caches\\transforms-3\\46e70eb116501c0a239ed0d3ab6b5a9f\\transformed\\jetified-payments-core-20.8.0\\res\\values-ldpi-v4\\values-ldpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                }
+            ]
+        }
+    ]
+}

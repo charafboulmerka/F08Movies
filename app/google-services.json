@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "581764535454",
+    "project_id": "f08movies",
+    "storage_bucket": "f08movies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581764535454:android:db16cfa5f923080391578f",
+        "android_client_info": {
+          "package_name": "com.f08movies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzOIpNoYUJXgFtDY4Zyfaq1H6GXY4r85A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.f08movies.app-mergeDebugResources-173:/values-ru-rRU/values-ru-rRU.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\CHARAF\\.gradle\\caches\\transforms-3\\3320c0919bc0dbe5222031cfcb7e431d\\transformed\\jetified-android-image-cropper-2.8.0\\res\\values-ru-rRU\\values-ru-rRU.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,171,257,339,412,487",
+                        "endColumns": "57,57,85,81,72,74,76",
+                        "endOffsets": "108,166,252,334,407,482,559"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\CHARAF\\.gradle\\caches\\transforms-3\\cb213891121639d6ed849f3aa4fd126e\\transformed\\jetified-stripe-3ds2-android-6.1.5\\res\\values-ru-rRU\\values-ru-rRU.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,141,244,311,378,442,529",
+                        "endColumns": "85,102,66,66,63,86,71",
+                        "endOffsets": "136,239,306,373,437,524,596"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "564,650,753,820,887,951,1038",
+                        "endColumns": "85,102,66,66,63,86,71",
+                        "endOffsets": "645,748,815,882,946,1033,1105"
+                    }
+                }
+            ]
+        }
+    ]
+}

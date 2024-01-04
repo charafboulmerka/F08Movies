@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.f08movies.app-mergeDebugResources-173:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\CHARAF\\.gradle\\caches\\transforms-3\\9ce357b8744222c08074e377eae4f448\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "112",
+                        "endLines": "7",
+                        "endColumns": "13",
+                        "endOffsets": "384"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\CHARAF\\.gradle\\caches\\transforms-3\\46e70eb116501c0a239ed0d3ab6b5a9f\\transformed\\jetified-payments-core-20.8.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                }
+            ]
+        }
+    ]
+}
